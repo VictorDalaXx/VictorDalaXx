@@ -2,7 +2,7 @@
 - 👋 Olá,me chamo @victor.hugo_006
 - 👀 Gosto de Jogos
 - 🌱 Minha materia preferida é EDF
-- 💞️ Jogador caro
+- 💞️ **Jogador caro**
 - 📫 Cria do RJ chama nois pelo [email](victor.blauth@escola.pr.gov.br)
 - 
 <!---
